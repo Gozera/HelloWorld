@@ -2,7 +2,9 @@
 HelloWorld
 
 
-## 8.7
+# 8月
+## 7日
 
 - Helloworld
-- Gimme test1.porject
+- 用上了git，加入了github。单车变摩托。
+- 搞一个数据库（mysql）的笔记。
